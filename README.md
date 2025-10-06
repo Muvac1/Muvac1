@@ -2,7 +2,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Muvac1&theme=kimbie_dark
 )](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats-three-eta-uhl5bp8pzn.vercel.app/api/top-langs/?username=Muvac1&size_weight=0.5&count_weight=0.5&layout=compact)
-
-
-![Metrics](/github-metrics.svg)
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
